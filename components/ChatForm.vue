@@ -8,6 +8,7 @@
     export default {
         name: "ChatForm",
         data : () => ({
+
             text : '',
         }),
         methods : {
